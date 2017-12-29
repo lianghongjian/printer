@@ -1,0 +1,14 @@
+C:\Users\Shinelon\Desktop\source\Processors\Tutorial\EmailWeatherInCelcius\bin\Release\EmailWeatherInCelcius.dll
+C:\Users\Shinelon\Desktop\source\Processors\Tutorial\EmailWeatherInCelcius\bin\Release\EmailWeatherInCelcius.pdb
+C:\Users\Shinelon\Desktop\source\Processors\Tutorial\EmailWeatherInCelcius\bin\Release\PrinterPlusPlusSDK.dll
+C:\Users\Shinelon\Desktop\source\Processors\Tutorial\EmailWeatherInCelcius\bin\Release\PrinterPlusPlusSDK.pdb
+C:\Users\Shinelon\Desktop\source\Processors\Tutorial\EmailWeatherInCelcius\obj\Release\EmailWeatherInCelcius.csprojResolveAssemblyReference.cache
+C:\Users\Shinelon\Desktop\source\Processors\Tutorial\EmailWeatherInCelcius\obj\Release\EmailWeatherInCelcius.dll
+C:\Users\Shinelon\Desktop\source\Processors\Tutorial\EmailWeatherInCelcius\obj\Release\EmailWeatherInCelcius.pdb
+E:\upload\printer-\source\Processors\Tutorial\EmailWeatherInCelcius\bin\Release\EmailWeatherInCelcius.dll
+E:\upload\printer-\source\Processors\Tutorial\EmailWeatherInCelcius\bin\Release\EmailWeatherInCelcius.pdb
+E:\upload\printer-\source\Processors\Tutorial\EmailWeatherInCelcius\bin\Release\PrinterPlusPlusSDK.dll
+E:\upload\printer-\source\Processors\Tutorial\EmailWeatherInCelcius\bin\Release\PrinterPlusPlusSDK.pdb
+E:\upload\printer-\source\Processors\Tutorial\EmailWeatherInCelcius\obj\Release\EmailWeatherInCelcius.csprojResolveAssemblyReference.cache
+E:\upload\printer-\source\Processors\Tutorial\EmailWeatherInCelcius\obj\Release\EmailWeatherInCelcius.dll
+E:\upload\printer-\source\Processors\Tutorial\EmailWeatherInCelcius\obj\Release\EmailWeatherInCelcius.pdb

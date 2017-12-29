@@ -1,0 +1,4 @@
+C:\Users\Shinelon\Desktop\source\Installers\PrinterPlusPlusSetupCustomAction\bin\Release\PrinterPlusPlusSetupCustomAction.dll
+C:\Users\Shinelon\Desktop\source\Installers\PrinterPlusPlusSetupCustomAction\bin\Release\PrinterPlusPlusSetupCustomAction.pdb
+C:\Users\Shinelon\Desktop\source\Installers\PrinterPlusPlusSetupCustomAction\obj\Release\PrinterPlusPlusSetupCustomAction.dll
+C:\Users\Shinelon\Desktop\source\Installers\PrinterPlusPlusSetupCustomAction\obj\Release\PrinterPlusPlusSetupCustomAction.pdb

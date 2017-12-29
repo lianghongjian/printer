@@ -1,0 +1,8 @@
+C:\Users\Shinelon\Desktop\source\PrinterPlusPlusSDK\bin\Release\PrinterPlusPlusSDK.dll
+C:\Users\Shinelon\Desktop\source\PrinterPlusPlusSDK\bin\Release\PrinterPlusPlusSDK.pdb
+C:\Users\Shinelon\Desktop\source\PrinterPlusPlusSDK\obj\Release\PrinterPlusPlusSDK.dll
+C:\Users\Shinelon\Desktop\source\PrinterPlusPlusSDK\obj\Release\PrinterPlusPlusSDK.pdb
+E:\upload\printer-\source\PrinterPlusPlusSDK\bin\Release\PrinterPlusPlusSDK.dll
+E:\upload\printer-\source\PrinterPlusPlusSDK\bin\Release\PrinterPlusPlusSDK.pdb
+E:\upload\printer-\source\PrinterPlusPlusSDK\obj\Release\PrinterPlusPlusSDK.dll
+E:\upload\printer-\source\PrinterPlusPlusSDK\obj\Release\PrinterPlusPlusSDK.pdb
